@@ -43,3 +43,13 @@
   position: absolute;
   margin: auto;
 }
+
+#connected-container {
+  position: absolute;
+  margin: auto;
+  width: 100%;
+}
+
+input {
+  
+}
